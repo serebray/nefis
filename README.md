@@ -1,5 +1,5 @@
 # nefis
-Тестовые задание 1 (фаил ТЕСТ_1)
+Тестовые задание 1 (фаил Тест_1_SQL.txt)
 <br>
 Использовалась информация https://proglib.io/p/sql-programming/, http://sql-ex.ru/
 <br />
